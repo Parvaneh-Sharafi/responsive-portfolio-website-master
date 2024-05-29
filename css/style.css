@@ -467,7 +467,7 @@ footer .footer-socials {
   margin-right: -1rem;
 }
 footer .copyright {
-  color: var(--ternary);
+  color: rgb(255, 255, 255);
 }
 
 .site-main-wrapper {
@@ -494,7 +494,7 @@ footer .copyright {
   left: 0;
   z-index: 1001;
   background: rgb(42, 195, 201);
-  width: 100%;
+  width: 50%;
   height: 100%;
   padding: 2rem;
   padding-top: 5rem;
@@ -508,6 +508,8 @@ footer .copyright {
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
+  border-radius: 0 15% 15% 0%;
+  font-size: 70px;
 }
 .open {
   transform: translateX(0);
