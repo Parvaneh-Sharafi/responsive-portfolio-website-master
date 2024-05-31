@@ -508,7 +508,6 @@ footer .copyright {
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
-  border-radius: 0 15% 15% 0;
   font-size: 70px;
 }
 .open {
